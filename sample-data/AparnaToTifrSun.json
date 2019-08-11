@@ -1,0 +1,5 @@
+[
+
+  { "time": "08:00", "capacity": 4,  "vehicle": "Car", "notes": "" },
+  { "time": "08:30", "capacity": 4, "vehicle": "Car",  "notes": "" }
+]

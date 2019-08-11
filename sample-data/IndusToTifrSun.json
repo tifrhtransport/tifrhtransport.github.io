@@ -1,0 +1,27 @@
+[
+
+  {
+    "time": "08:30",
+    "capacity": 30,
+    "vehicle": "Bus",
+    "notes": ""
+  },
+  {
+    "time": "09:30",
+    "capacity": 30,
+    "vehicle": "Bus",
+    "notes": ""
+  },
+  {
+    "time": "10:30",
+    "capacity": 30,
+    "vehicle": "Bus",
+    "notes": ""
+  },
+  {
+    "time": "12:00",
+    "capacity": 30,
+    "vehicle": "Bus",
+    "notes": ""
+  }
+]

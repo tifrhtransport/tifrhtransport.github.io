@@ -1,0 +1,9 @@
+[
+
+  { "time": "07:15", "capacity": 4, "vehicle": "Car", "notes": "" },
+  { "time": "07:40", "capacity": 4, "vehicle": "Car",  "notes": "" },
+  { "time": "08:00", "capacity": 4,  "vehicle": "Car", "notes": "" },
+  { "time": "08:20", "capacity": 4, "vehicle": "Car",  "notes": "" },
+  { "time": "08:40", "capacity": 12, "vehicle": "Winger", "notes": "" },
+  { "time": "09:30", "capacity": 4, "vehicle": "Car", "notes": "" }
+]
